@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/shijilraj",
   "website": "https://github.com/Sh-Jil/Forwardit",
-  "repository": "https://github.com/Sh-Jil/Forwardit",
+  "repository": "https://github.com/AgPirosbabws/Forwardit",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
